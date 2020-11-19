@@ -1,0 +1,4 @@
+#Thu Nov 19 14:04:44 CET 2020
+base.0=/Users/sevcikdaniel/Desktop/School/MTE/proto-data-store/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

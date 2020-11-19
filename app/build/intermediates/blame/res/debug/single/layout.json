@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sevcikdaniel/Desktop/School/MTE/proto-data-store/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_tasks.xml",
+        "source": "/Users/sevcikdaniel/Desktop/School/MTE/proto-data-store/app/src/main/res/layout/activity_tasks.xml"
+    },
+    {
+        "merged": "/Users/sevcikdaniel/Desktop/School/MTE/proto-data-store/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/task_view_item.xml",
+        "source": "/Users/sevcikdaniel/Desktop/School/MTE/proto-data-store/app/src/main/res/layout/task_view_item.xml"
+    }
+]

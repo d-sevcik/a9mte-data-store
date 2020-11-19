@@ -1,0 +1,17 @@
+com/codelab/android/datastore/databinding/TaskViewItemBinding.java
+ com.codelab.android.datastore.databinding.TaskViewItemBinding
+com/codelab/android/datastore/BuildConfig.java
+ com.codelab.android.datastore.BuildConfig
+com/codelab/android/datastore/databinding/ActivityTasksBinding.java
+ com.codelab.android.datastore.databinding.ActivityTasksBinding
+com/codelab/android/datastore/UserPreferences.java
+ com.codelab.android.datastore.UserPreferences
+ com.codelab.android.datastore.UserPreferences$1
+ com.codelab.android.datastore.UserPreferences$Builder
+ com.codelab.android.datastore.UserPreferences$SortOrder
+ com.codelab.android.datastore.UserPreferences$SortOrder$1
+ com.codelab.android.datastore.UserPreferences$SortOrder$SortOrderVerifier
+com/codelab/android/datastore/UserPreferencesOrBuilder.java
+ com.codelab.android.datastore.UserPreferencesOrBuilder
+com/codelab/android/datastore/UserPrefs.java
+ com.codelab.android.datastore.UserPrefs
